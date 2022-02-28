@@ -1,5 +1,5 @@
 MODS = {
-    [3227974128] = true; -- dimag 
+    [2327057026] = true; -- dimag 
     [62639400] = true; 
     [1145907268] = true; 
     [1241129792] = true; 
@@ -70,11 +70,22 @@ MODS = {
     [3094886256] = true; --
     [71941577] = true; --
     [1893641861] = true; --
-    [207714133] = true; -- fixed script
+    [2798431306] = true; --
+    [2256443109] = true; -- atkD
+    [1438186198] = true; -- keke
+    [272920725] = true; -- nana
+    [2250658895] = true; --
+    [2360560929] = true; --
+    [480113448] = true; --
+    [2499251010] = true; --
+    [2360560929] = true; --
+    [1823903655] = true; --
+    [2041622060] = true; --
+    [3140798308] = true; --
 }
 
 ADMIN = {
-    [0] = true; -- dimag
+    [2327057026] = true; -- dimag
     [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
@@ -82,7 +93,7 @@ ADMIN = {
     [236937914] = true; -- crown buyer
     [562915894] = true; -- crown buyer <@733437144852332696>
     [2869703616] = true; -- crown buyer
-    [207714133] = true; --Helped Fixing the script
+    [2256443109] = true; -- atkD
 }
 
 --// Don't mess with anything below this
